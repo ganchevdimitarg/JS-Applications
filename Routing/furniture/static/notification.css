@@ -1,0 +1,8 @@
+#notification{
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    background-color: crimson;
+    color: #010101;
+    padding: 50px 100px;
+}
